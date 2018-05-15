@@ -1,3 +1,5 @@
+// lparis 2018
+
 /*
  * genEncrypt()
  * - Takes input string plainText.

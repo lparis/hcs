@@ -1,3 +1,5 @@
+// lparis 2018
+
 // Create instance of SHA-256 algorithm
 // Takes plain text string as input; generate hash
 
