@@ -1,3 +1,5 @@
+// lparis 2018
+
 package hcs;
 
 import java.math.BigInteger;
